@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/
+#EXTM3U url-tvg="https://www.bevy.be/generate/85c4RmSrtY.xml
 
 #EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="PT: Sport TV+" tvg-logo="http://kb007.xyz/picons/sporttvplus.png" group-title="VIP | Sports Portugal",PT: Sport TV+
 http://113.178.26.34:8889/ultratv.php?id=9343
