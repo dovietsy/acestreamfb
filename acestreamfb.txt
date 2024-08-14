@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="PT: Sport TV+" tvg-logo="http://kb007.xyz/picons/sporttvplus.png" group-title="VIP | Sports Portugal",PT: Sport TV+
 http://113.178.26.34:8889/ultratv.php?id=9343
-#EXTINF:-1 tvg-id="sport tv1.pt" tvg-name="PT: Sport TV 1 FHD" tvg-logo="http://kb007.xyz/picons/sporttv1.png" group-title="VIP | Sports Portugal",PT: Sport TV 1 FHD
+#EXTINF:-1 tvg-id="Sport TV1.pt" tvg-name="PT: Sport TV 1 FHD" tvg-logo="http://kb007.xyz/picons/sporttv1.png" group-title="VIP | Sports Portugal",PT: Sport TV 1 FHD
 http://113.178.26.34:8889/ultratv.php?id=7797
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: Sport TV 1 HD" tvg-logo="http://kb007.xyz/picons/sporttv1.png" group-title="VIP | Sports Portugal",PT: Sport TV 1 HD
 http://113.178.26.34:8889/ultratv.php?id=3013
