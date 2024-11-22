@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U url-tvg="https://tinyurl.com/tta-epg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
 #EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="PT: Sport TV+" tvg-logo="http://kb007.xyz/picons/sporttvplus.png" group-title="VIP | Sports Portugal",PT: Sport TV+
 http://14.248.121.198:8889/ultratv.php?id=9343
