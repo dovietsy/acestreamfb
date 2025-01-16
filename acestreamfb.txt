@@ -662,7 +662,7 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8|Referer=htt
 
 #EXTINF:-1 tvg-id="htv1" group-title="💛| HTVTV360" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/07/16/185783-505482-HTV1.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1
 #EXTVLCOPT:http-user-agent=dovietsy
-http://14.248.118.119:8889/ace/tv360mpd.php?id=190/index.m3u8
+http://14.248.118.119:8889/ace/tv360mpd.php?id=190
 
 
 #EXTINF:-1 tvg-id="htv2hd" group-title="💛| HTVTV360" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/05/904719-HTV2HD.png" catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", HTV2
