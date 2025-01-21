@@ -406,7 +406,7 @@ http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 group-title="Pimple TV" tvg-logo="https://i.imgur.com/jmE9BXV.png", Pimple TV ECCC
 http://127.0.0.1:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 
-#EXTINF:-1 group-title="Pimple TV" tvg-logo="https://i.imgur.com/YCBloQl.png", Pimple TV 051F
+#EXTINF:-1 group-title="Pimple TV" tvg-logo="https://i.imgur.com/jmE9BXV.png", Pimple TV 051F
 http://127.0.0.1:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
 
 #EXTINF:-1 group-title="Pimple TV" tvg-logo="https://i.imgur.com/YCBloQl.png", Pimple TV 9296
