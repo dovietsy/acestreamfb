@@ -50,6 +50,102 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
 
+#-*--SCTV-*--#
+
+#EXTINF:-1 tvg-id="sctv1hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/DYVGW60/sctv1-hd-BEARTV.png",SCTV 1
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh12.seenow.vn/hls/SCTV1/02.m3u8
+
+#EXTINF:-1 tvg-id="sctv2hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/cctcsNH/sctv2-hd-BEARTV.png" ,SCTV2
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh12.seenow.vn/hls/SCTV2/02.m3u8
+
+#EXTINF:-1 tvg-id="sctv3hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/bW9fKGv/sctv3-hd-BEARTV.png" ,SCTV 3
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV3/02.m3u8
+
+#EXTINF:-1 tvg-id="sctv4hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/2N5hVDx/sctv4-hd-BEARTV.png" ,SCTV 4
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh12.seenow.vn/hls/SCTV4/02.m3u8
+
+#EXTINF:-1 tvg-id="sctv5hd" group-title="🪐| SCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/SCTV5_logo.png" ,SCTV 5
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV5/02.m3u8
+
+#EXTINF:-1 tvg-id="sctv6hd" group-title="🪐| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/SCTV6_logo.png/revision/latest?cb=20200409033954&path-prefix=vi",SCTV6
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV6/02.m3u8
+
+
+#EXTINF:-1 tvg-id="sctv7hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/X8fCcpx/sctv7-hd-BEARTV.png" ,SCTV 7
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV7/02.m3u8
+       
+#EXTINF:-1 tvg-id="sctv8hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/0tVLK8b/sctv8-BEARTV.png" ,SCTV8
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV8/02.m3u8
+
+#EXTINF:-1 tvg-id="sctv9hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/VLJrprr/sctv9-hd-BEARTV.png" ,SCTV9
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV9/02.m3u8
+
+#EXTINF:-1 tvg-id="sctv10hd" group-title="🪐| SCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/SCTV10.png" ,SCTV10
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV10/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv11hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/Jy3cThG/sctv11-hd-BEARTV.png" ,SCTV11
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV11/02.m3u8
+
+#EXTINF:-1 tvg-id="sctv12hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/nDbnG8h/sctv12-hd-BEARTV.png" ,SCTV 12
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV12/02.m3u8
+
+
+#EXTINF:-1 tvg-id="sctv13hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/YXt8w8v/sctv13-hd-BEARTV.png" ,SCTV13
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV13/02.m3u8
+     
+#EXTINF:-1 tvg-id="sctv14hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/n8YQ0hB/sctv14-hd-BEARTV.png",SCTV14
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV14/02.m3u8
+
+#EXTINF:-1 tvg-id="sctv15hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/q1PkQkp/sctv15-hd-BEARTV.png" ,SCTV15
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV15/02.m3u8
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/CMr9xN0/sctv16-hd-BEARTV.png" ,SCTV16
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV16/02.m3u8
+
+#EXTINF:-1 tvg-id="sctv17hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/R48wrKp/sctv17-hd-BEARTV.png" ,SCTV17
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV17/02.m3u8
+
+#EXTINF:-1 tvg-id="sctv18hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/72PK5Nr/sctv18-hd-BEARTV.png" ,SCTV18
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV18/02.m3u8
+
+#EXTINF:-1 tvg-id="sctv19hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/gMJ1GRG/sctv19-hd-BEARTV.png" ,SCTV19
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV19/02.m3u8
+
+#EXTINF:-1 tvg-id="sctv20hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/f9swgvg/sctv20-hd-BEARTV.png" ,SCTV20
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV20/02.m3u8
+vvvvvvvvvvvvvv
+#EXTINF:-1 tvg-id="sctv21hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/njnhPPB/sctv21-hd-BEARTV.png" ,SCTV21
+#EXTVLCOPT:http-user-agent="dovietsy"vvvvvvv
+https://liveh34.seenow.vn/hls/SCTV21/02.m3u8
+
+#EXTINF:-1 tvg-id="sctv22hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/FVFwKRc/sctv22-hd-BEARTV.png" ,SCTV22
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh34.seenow.vn/hls/SCTV22/02.m3u8
+
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png" ,SCTV PHIM TỔNG HỢP 
+#EXTVLCOPT:http-user-agent="dovietsy"
+https://liveh12.seenow.vn/hls/SCTVPHIM/02.m3u8
+
 #EXTINF:0 tvg-id="hanoi1" group-title="🏞️| HA NOI", tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/06/is5jeyfi_ha-noi-1fa6c2d09234c45aafba0a22f076861a3_296_168.png",❤️|  Hà Nội 1
 #EXTVLCOPT:http-user-agent=dovietsy
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w256840765_b3128000_slen.m3u8
@@ -1200,3 +1296,4 @@ https://cloudcdnfm90.tek4tv.vn/HANOI90/stream.m3u8
 #EXTINF:-1 group-title="📻 | Radio" tvg-logo="https://cloudcdnvod.tek4tv.vn//MAM/VNews/Image/Playlist/2024/01/16/logo/16012024162843/162842_fm96.jpg", FM96 | Hà Nội
 
 https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
+
