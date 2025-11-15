@@ -146,6 +146,67 @@ https://liveh34.seenow.vn/hls/SCTV22/02.m3u8
 #EXTVLCOPT:http-user-agent="dovietsy"
 https://liveh12.seenow.vn/hls/SCTVPHIM/02.m3u8
 
+#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!-VTVcabTV360---#
+
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/02/23/1704211446236/d1503bd3566e_640_360.png",  VTVcab 1 - Vie Giải trí HD
+#EXTVLCOPT:http-user-agent=dovietsy
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/07/16/1631007494845/516efb158133_640_360.png", ON Phim Việt
+#EXTVLCOPT:http-user-agent=dovietsy
+https://freem3u.xyz/api/live/play.m3u8?vid=175
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650417399/08d4190f7711_640_360.png", ON Sports HD
+#EXTVLCOPT:http-user-agent=dovietsy
+https://freem3u.xyz/api/live/play.m3u8?vid=173
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/16/16/1676540062912/f21d4df5b545_640_360.png", ON Movies
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1 tvg-id="onechannel" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/15/1689755306897/935d4d4cde0d_640_360.png", ON E Channel
+#EXTVLCOPT:http-user-agent=dovietsy
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_640_360.png", ON Sports+
+#EXTVLCOPT:http-user-agent=dovietsy
+https://freem3u.xyz/api/live/play.m3u8?vid=183
+
+#EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡| VTVcabTV360" tvg-logo="https://i.ibb.co/ZT7w970/ONO2-BEARTV.png", ON O2TV
+#EXTVLCOPT:http-user-agent=dovietsy
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/08/1689731979485/df22eff3c261_640_360.png", ON BiBi
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732099410/a13853e5de55_640_360.png", ON Info TV
+#EXTVLCOPT:http-user-agent=dovietsy
+https://freem3u.xyz/api/live/play.m3u8?vid=189
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/07/17/1631009339636/95e9bc61877c_640_360.png", ON Cine
+#EXTVLCOPT:http-user-agent=dovietsy
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732221934/7138a2e2ade1_640_360.png", ON Style
+#EXTVLCOPT:http-user-agent=dovietsy
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png", ON Music
+#EXTVLCOPT:http-user-agent=dovietsy
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_640_360.png", ON Football HD
+#EXTVLCOPT:http-user-agent=dovietsy
+https://freem3u.xyz/api/live/play.m3u8?vid=174
+#EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/16/1689759248732/ebe66c03d7f6_640_360.png", ON Trending TV
+#EXTVLCOPT:http-user-agent=dovietsy
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650363143/71956aa35c78_640_360.png", ON Sports News
+#EXTVLCOPT:http-user-agent=dovietsy
+https://freem3u.xyz/api/live/play.m3u8?vid=170
+#EXTINF:-1 tvg-id="onviedramas" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/07/1704241415128/050934936855_640_360.png", VTVcab 19 - Vie Dramas
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+#EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732486538/904f55c861b5_640_360.png", ON VFamily
+#EXTVLCOPT:http-user-agent=dovietsy
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_22/1600760880835/9ba1d38679e0_640_360.png", ON Kids
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_640_360.png", ON Life
+#EXTVLCOPT:http-user-agent=dovietsy
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650320416/f57f4fd63788_640_360.png", ON Golf
+https://freem3u.xyz/api/live/play.m3u8?vid=169
+#EXTINF:-1 tvg-id="btv5hd" group-title="🧡| VTVcabTV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/24/17/1682332092780/da2b18a32787_640_360.png", BTV5 - ON Sports Action
+https://freem3u.xyz/api/live/play.m3u8?vid=2380
+
 #EXTINF:0 tvg-id="hanoi1" group-title="🏞️| HA NOI", tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/06/is5jeyfi_ha-noi-1fa6c2d09234c45aafba0a22f076861a3_296_168.png",❤️|  Hà Nội 1
 #EXTVLCOPT:http-user-agent=dovietsy
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w256840765_b3128000_slen.m3u8
@@ -1296,4 +1357,5 @@ https://cloudcdnfm90.tek4tv.vn/HANOI90/stream.m3u8
 #EXTINF:-1 group-title="📻 | Radio" tvg-logo="https://cloudcdnvod.tek4tv.vn//MAM/VNews/Image/Playlist/2024/01/16/logo/16012024162843/162842_fm96.jpg", FM96 | Hà Nội
 
 https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
+
 
