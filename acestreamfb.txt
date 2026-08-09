@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
-#EXTINF:-1 tvg-id="xl" group-title="💛|Xoi lac" tvg-logo="https://blanktexts.io/wp-content/uploads/2025/05/xoilac_mypham_logo_cut.png", BRADY
+#EXTINF:-1 tvg-id="xl" group-title="💛|Xoi lac" tvg-logo="https://blanktexts.io/wp-content/uploads/2025/05/xoilac_mypham_logo_cut.png", ASTRA
 #EXTVLCOPT:http-user-agent=dovietsy
-http://123.24.82.115:8889/proxy_flv.php?url=https://live2.streambylivepulse.com/live/channel15.flv
+http://123.24.82.115:8889/proxy_flv.php?url=https://live2.streambylivepulse.com/live/channel11.flv
 
 #-*-🌟-VTV*FPT-*--#
 
